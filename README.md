@@ -54,7 +54,8 @@ AI-Innovators/
     │   │   └── generate_descriptions.py    # Generates descriptions based on user preferences
     │   └── user_interface/
     │       ├── user_profile.py     # Handles user preferences and profile storage
-    │       └── app.py              # User interface for media type selection and customization
+    │       ├── app.py              # User interface for media type selection and customization
+    │       └── chatbot.py 
     ├── aws/
     │   ├── amplify/
     │   │   ├── backend/
